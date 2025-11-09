@@ -36,4 +36,4 @@ L’objectif est de faciliter la collecte rapide de données réseau pour le dia
 
 
 
-![Aperçu du programme](nxnc/capture.png)
+![Aperçu du programme](images/nxnc.png)
