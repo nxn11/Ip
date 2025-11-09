@@ -25,7 +25,6 @@ L’objectif est de faciliter la collecte rapide de données réseau pour le dia
 ---
 
 ## Installation
-1. Cloner le projet :
    ```bash
    git clone https://github.com/nxn11/Ip
    cd Ip
