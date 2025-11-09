@@ -21,7 +21,6 @@ L’objectif est de faciliter la collecte rapide de données réseau pour le dia
 ### Information 
 
 - chmod +x ip.py         #Rend le script exécutable
-- pip install requests   #Installe la dépendance nécessaire
 - ./ip.py                #Exécute le programme
 
 ---
