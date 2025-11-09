@@ -8,23 +8,17 @@
     # Network Info Tool
 
 ## Description
-Ce programme Python affiche les principales informations réseau de la machine, telles que :
-- Adresse IP locale 
-- Nom d’hôte  
-- Adresse IP publique
-- Localisation 
 
-L’objectif est de faciliter la collecte rapide de données réseau pour le diagnostic ou la supervision.
+This Python program displays key network information for the host machine, including:
+	•	Local IP address
+	•	Hostname
+	•	Public IP address
+	•	Geolocation (based on public IP)
+    
+- chmod +x ip.py        # Make the script executable
+- ./ip.py               # Run the program
 
-
-### Information 
-
-- chmod +x ip.py         #Rend le script exécutable
-- ./ip.py                #Exécute le programme
-
----
-
-## Installation
+Purpose: provide a quick, reliable snapshot of network data for diagnostics and monitoring.
    ```bash
    git clone https://github.com/nxn11/Ip
    cd Ip
