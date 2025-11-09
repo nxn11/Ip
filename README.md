@@ -30,6 +30,8 @@ L’objectif est de faciliter la collecte rapide de données réseau pour le dia
    cd Ip
    chmod +x ip.py
    ./ip.py
+ ```
+
 
 
 ![Aperçu du programme](images/nxnc.png)
