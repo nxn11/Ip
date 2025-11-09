@@ -33,6 +33,3 @@ L’objectif est de faciliter la collecte rapide de données réseau pour le dia
    chmod +x ip.py
    pip install requests
    ./ip.py
-
-
-   
