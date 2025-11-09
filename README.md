@@ -30,10 +30,9 @@ L’objectif est de faciliter la collecte rapide de données réseau pour le dia
 1. Cloner le projet :
    ```bash
    git clone https://github.com/nxn11/Ip
+   cd Ip
    chmod +x ip.py
-   pip install requests
    ./ip.py
-
 
 
 ![Aperçu du programme](images/nxnc.png)
